@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center;">
+<div align="center">
  
 <img src="images/mandera.jpg">
 

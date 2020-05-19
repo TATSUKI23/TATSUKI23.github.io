@@ -1,6 +1,5 @@
 <div style="text-align: center">
- 
-###  Hello and welcome to My blog about progress of my programming study.
+<h3>Hello and welcome to My blog about progress of my programming study.<h3>
 </div>
 
 

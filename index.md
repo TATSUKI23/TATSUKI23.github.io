@@ -1,6 +1,6 @@
 Hello and welcome to My blog about progress of my programming study. 
 
-![Image of fast.ai logo](images/logo.png)
+![Image](images/logo.png)
 
 ## This is a title
 

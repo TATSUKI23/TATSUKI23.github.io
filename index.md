@@ -4,11 +4,12 @@
 
 </div>
 
-<div align="center”>
+<div align="center">
  
-![Image](images/mandera.jpg)
+<img src="images/mandera.jpg">
 
 </div>
+
 
 
  

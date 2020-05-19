@@ -3,8 +3,7 @@
 <h2>Hello and welcome to My blog about programming<h2>
  
  
-<P></p>
-<P></p>
+<br>
 
 
 <div align="center">

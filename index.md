@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<div style="text-align: center">
  
-###  Hello and welcome to My blog about progress of my programming study. 
+###  Hello and welcome to My blog about progress of my programming study.
 </div>
 
 

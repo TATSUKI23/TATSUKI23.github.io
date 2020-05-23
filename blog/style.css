@@ -9,20 +9,15 @@ h2{
     margin-top:20px;
   }
 
-  body {
-   background-color: #486d46;            /* 背景色 */
-   background-image:url("surfine1.jpg")/* 画像 */
-   background-size:cover;; ;               /* 全画面 */
-   background-attachment: fixed;         /* 固定 */
-   background-position: center center;   /* 縦横中央 */
-}
-
-
 /* ▼中くらいの画面用 */
    /* ================== */
    @media (max-width: 999px) {
       body {
-         background-image: url("surfine1.jpg"); /* 1280x854 */
+         background-color: #486d46;            /* 背景色 */
+   background-image:url("surfine1.jpg")/* 画像 */
+   background-size:cover;; ;               /* 全画面 */
+   background-attachment: fixed;         /* 固定 */
+   background-position: center center;   /* 縦横中央 *//
       }
    }
    /* ============ */
@@ -30,7 +25,11 @@ h2{
    /* ============ */
    @media (min-width: 1000px) {
       body {
-         background-image: url("surfine.jpg"); /* 1860x1240 */
+         background-color: #486d46;            /* 背景色 */
+   background-image:url("surfine.jpg")/* 画像 */
+   background-size:cover;; ;               /* 全画面 */
+   background-attachment: fixed;         /* 固定 */
+   background-position: center center;   /* 縦横中央 */
       }
    }
 

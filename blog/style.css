@@ -20,9 +20,9 @@ h2{
 
 /* ▼中くらいの画面用 */
    /* ================== */
-   @media (min-width: 1000px) {
+   @media (min-width: 700px) {
       body {
-         background-image: url("surfine.jpg"); /* 1280x854 */
+         background-image: url("surfine1.jpg"); /* 1280x854 */
       }
    }
    /* ============ */

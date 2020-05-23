@@ -11,10 +11,10 @@ h2{
 
 /* ▼中くらいの画面用 */
    /* ================== */
-   @media (max-width: 999px) {
+   @media (max-width: 800px) {
       body {
          background-color: #486d46;            /* 背景色 */
-   background-image:url("surfine1.jpg");/* 画像 */
+   background-image:url("surfinea.jpg");/* 画像 */
    background-size: cover;               /* 全画面 */
    background-attachment: fixed;         /* 固定 */
    background-position: center center;   /* 縦横中央 *//
@@ -23,7 +23,7 @@ h2{
    /* ============ */
    /* ▼広い画面用 */
    /* ============ */
-   @media (min-width: 1000px) {
+   @media (min-width: 801px) {
       body {
          background-color: #486d46;            /* 背景色 */
    background-image:url("surfine.jpg");/* 画像 */

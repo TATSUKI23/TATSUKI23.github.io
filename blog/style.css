@@ -11,7 +11,7 @@ h2{
 
 /* ▼中くらいの画面用 */
    /* ================== */
-   @media (max-width: 10px) {
+   @media (max-width: 700px) {
       body {
          background-color: #486d46;            /* 背景色 */
    background-image:url("surfinea.jpg");/* 画像 */
@@ -23,7 +23,7 @@ h2{
    /* ============ */
    /* ▼広い画面用 */
    /* ============ */
-   @media (min-width: 11px) {
+   @media (min-width: 701px) {
       body {
          background-color: #486d46;            /* 背景色 */
    background-image:url("surfine.jpg");/* 画像 */
